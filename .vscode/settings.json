@@ -1,0 +1,19 @@
+{
+    // Use Prettier as default formatter
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+    // Format on save (auto format when you hit Ctrl+S)
+    "editor.formatOnSave": true,
+
+    // Optional: turn on auto save (every few seconds)
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+
+    // Helpful extras
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "prettier.singleQuote": true,
+    "prettier.semi": true,
+    "prettier.tabWidth": 4
+}

@@ -1,0 +1,28 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "coenraads.bracket-pair-colorizer-2",
+        "christian-kohler.path-intellisense",
+        "ritwickdey.LiveServer",
+        "ecmel.vscode-html-css",
+        "pranaygp.vscode-css-peek",
+        "formulahendry.auto-rename-tag",
+        "eriklynd.json-tools",
+        "humao.rest-client",
+        "bmewburn.vscode-intelephense-client",
+        "onecentlin.laravel-blade",
+        "ryannaddy.laravel-artisan",
+        "amiralizadeh9480.laravel-extra-intellisense",
+        "mikestead.dotenv",
+        "mehedidracula.php-namespace-resolver",
+        "onecentlin.laravel5-snippets",
+        "dsznajder.es7-react-js-snippets",
+        "xabikos.JavaScriptSnippets",
+        "jpoissonnier.vscode-styled-components",
+        "wayou.vscode-todo-highlight",
+        "wix.vscode-import-cost",
+        "aaron-bond.better-comments",
+        "usernamehw.errorlens"
+    ]
+}
