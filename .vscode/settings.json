@@ -5,15 +5,19 @@
     // Format on save (auto format when you hit Ctrl+S)
     "editor.formatOnSave": true,
 
-    // Optional: turn on auto save (every few seconds)
+    // Optional: auto-save after delay
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 1000,
 
-    // Helpful extras
+    // Run auto-fixes like ESLint on save
     "editor.codeActionsOnSave": {
-        "source.fixAll": "explicit"
+        "source.fixAll": true
     },
+
+    // Prettier rules
     "prettier.singleQuote": true,
     "prettier.semi": true,
-    "prettier.tabWidth": 4
+    "prettier.tabWidth": 4,
+    "prettier.trailingComma": "es5",
+    "prettier.printWidth": 100
 }
